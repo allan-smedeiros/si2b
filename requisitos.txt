@@ -1,0 +1,3 @@
+Sistema: UBER SPACE
+
+O UBER Space será um aplicativo Mobile onde: o usuário irá acessar o App com suas credenciais e de imediato irá colocar o endereço de seu destino, informará a quantidade de pessoas e por fim, retornará o valor a ser pago. 
